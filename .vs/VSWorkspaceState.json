@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\components\\login-page",
+    "\\frontend\\src\\app\\components\\register-page",
+    "\\frontend\\src\\app\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
